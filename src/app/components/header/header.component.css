@@ -1,0 +1,5 @@
+/* Add any specific header styling here */
+nav {
+  position: relative;
+  z-index: 999;
+}
